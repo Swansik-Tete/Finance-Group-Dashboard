@@ -115,7 +115,7 @@ Financial-Group-Dashboard/
 
 ## Screenshots
 
-![Dashboard Screenshot](images/screenshot.jpeg)
+![Dashboard Screenshot](images/Screenshot.jpeg)
 
 Example:
 
