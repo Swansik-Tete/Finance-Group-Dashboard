@@ -115,13 +115,8 @@ Financial-Group-Dashboard/
 
 ## Screenshots
 
-![Dashboard Screenshot](images/Screenshot.jpeg)
+![Dashboard Screenshot](image/Screenshot.jpeg)
 
-Example:
-
-```md
-![Dashboard Screenshot](images/dashboard_screenshot.png)
-```
 
 ---
 
