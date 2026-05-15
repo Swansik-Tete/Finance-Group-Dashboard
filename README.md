@@ -115,7 +115,9 @@ Financial-Group-Dashboard/
 
 ## Screenshots
 
-![Dashboard Screenshot](image/Screenshot.jpeg)
+![Dashboard Revenue Screenshot](image/Screenshot.jpeg)
+![Dashboard Expenses Screenshot](image/Screenshot1.jpeg)
+![Dashboard Cashflow Screenshot](image/Screenshot2.jpeg)
 
 
 ---
